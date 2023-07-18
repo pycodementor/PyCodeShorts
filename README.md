@@ -19,6 +19,8 @@ Upon completing our program, you'll have the confidence and expertise to tackle 
 Join us on this exciting journey of learning, exploration, and growth. Let's unlock the limitless possibilities of programming together! 
 
 Video Link 
-[![Watch the video]([https://youtu.be/vt5fpE0bzSY](https://youtube.com/shorts/bRCejq9i5Bw?feature=share))
+[Tutorial 1](https://youtube.com/shorts/bRCejq9i5Bw?feature=share)
+[Tutorial 2](https://youtube.com/shorts/oo-gcsQiQ4A?feature=share)
+[Tutorial 3](https://youtube.com/shorts/vUJcRWmAgc4?feature=share)
 
 Our : [Website](https://www.pycodementor.com) | [Youtube Channel](https://www.youtube.com/@Py.CodeMentor)
